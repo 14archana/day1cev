@@ -1,0 +1,23 @@
+body {
+    background-color: bisque;
+    text-align: center;
+    border-style: dotted;
+    
+}
+.classA{
+    height: 100px;
+    text-align: center;
+    }
+    #id1
+    {
+
+        background-color: aqua;
+
+    }
+    li
+{
+    list-style-type: none;
+}
+
+
+
